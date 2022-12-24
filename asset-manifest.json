@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/otohondabmt/static/css/main.073c9b0a.css",
+    "main.js": "/otohondabmt/static/js/main.1722855d.js",
+    "static/js/787.dd04edb7.chunk.js": "/otohondabmt/static/js/787.dd04edb7.chunk.js",
+    "static/media/logo.svg": "/otohondabmt/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/otohondabmt/index.html",
+    "main.073c9b0a.css.map": "/otohondabmt/static/css/main.073c9b0a.css.map",
+    "main.1722855d.js.map": "/otohondabmt/static/js/main.1722855d.js.map",
+    "787.dd04edb7.chunk.js.map": "/otohondabmt/static/js/787.dd04edb7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1722855d.js"
+  ]
+}
